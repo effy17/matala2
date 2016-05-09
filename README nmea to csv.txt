@@ -1,0 +1,4 @@
+-Launch in pytchrom
+-open "nmea convertr csv.py"
+-enter a in_file name (asi.txt for example)
+-enter out_filename (asi.csv for example)

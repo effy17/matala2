@@ -1,0 +1,4 @@
+-Launch in pytchrom
+-open "nmea convertv kml.py"
+-enter a in_file name (asi.txt for example)
+-enter out_filename (asi.kml for example)
