@@ -1,0 +1,1854 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder>
+<name>Point Features</name>
+<description>Point Features</description>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202731666666665,32.10581333333333,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202955,32.10582,640.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202996666666664,32.10642333333333,635.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20298,32.10586,655.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20296666666667,32.105763333333336,656.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20296,32.105731666666664,653.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20295,32.10569666666667,654.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202945,32.105671666666666,654.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202981666666666,32.10575333333333,646.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202983333333336,32.105743333333336,645.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202976666666665,32.105711666666664,647.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20297333333333,32.10568,647.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299333333333,32.10565166666667,643.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299166666667,32.10566333333333,639.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299333333333,32.10566333333333,636.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299333333333,32.10566,634.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299166666667,32.105666666666664,634.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202985,32.105671666666666,635.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.202978333333334,32.105675,637.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20298666666667,32.10566166666667,636.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20299166666667,32.10568333333333,635.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203001666666665,32.105686666666664,634.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20301,32.10568833333333,634.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20301666666667,32.105693333333335,632.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203026666666666,32.105693333333335,631.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20303833333333,32.10568833333333,630.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203045,32.10568,630.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20305166666667,32.10567666666667,630.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20306,32.10567666666667,629.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20306,32.10567833333333,628.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20306166666666,32.10568166666667,628.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203071666666666,32.10568,627.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203073333333336,32.10568333333333,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20308333333333,32.105686666666664,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203093333333335,32.10568833333333,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203105,32.10568833333333,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203116666666666,32.10568833333333,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20312166666667,32.10569,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20313,32.105691666666665,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203133333333334,32.105698333333336,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20314,32.1057,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20314666666667,32.10570166666667,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20315166666666,32.1057,627.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203155,32.1057,627.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20316166666667,32.105698333333336,627.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20316666666667,32.105698333333336,627.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203176666666664,32.105698333333336,627.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20318833333334,32.105698333333336,627.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203201666666665,32.105691666666665,627.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20321,32.10569,627.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20321833333333,32.10569,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203225,32.105691666666665,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20323333333333,32.10569,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20324166666666,32.10569,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20324333333333,32.10568833333333,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20325,32.105685,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20324166666666,32.105671666666666,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203245,32.105665,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203246666666665,32.10566333333333,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20325,32.10566166666667,627.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20325666666667,32.105665,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203266666666664,32.105666666666664,627.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203275,32.105666666666664,627.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20328333333333,32.10566166666667,627.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20329,32.10565833333333,627.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20329666666667,32.105655,627.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203311666666664,32.105653333333336,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20332666666667,32.10565,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203335,32.105648333333335,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20334666666667,32.10565,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20335166666667,32.10564333333333,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20336,32.10564,626.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203363333333336,32.10563666666667,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203365,32.10563333333333,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20336833333333,32.10563,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20337333333333,32.105628333333335,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20338,32.105625,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203381666666665,32.105621666666664,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203383333333335,32.105625,626.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203385,32.105625,626.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20338666666667,32.10563,626.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203388333333336,32.105635,626.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203388333333336,32.105635,626.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20339666666667,32.105635,626.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203403333333334,32.10563666666667,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20341,32.10563666666667,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20341833333333,32.10563833333333,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203428333333335,32.10564,626.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20344,32.10564166666666,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203445,32.10564333333333,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20345833333333,32.10563833333333,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20347,32.105635,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203485,32.10563,626.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20349,32.10563166666667,626.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203495,32.10563166666667,626.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20350166666667,32.10563166666667,626.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20350333333333,32.105626666666666,626.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20350666666667,32.105626666666666,626.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20352,32.10563166666667,626.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203538333333334,32.10564,626.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20355166666667,32.105646666666665,626.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20356,32.105646666666665,626.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20357,32.105645,626.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20358,32.10565166666667,626.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20361166666667,32.10565666666667,626.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203635,32.105665,626.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20365666666667,32.105668333333334,626.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203673333333334,32.105666666666664,626.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20370166666667,32.10566,626.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203725,32.105653333333336,626.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203743333333335,32.10565166666667,625.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20375166666667,32.10565166666667,625.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203765,32.105653333333336,625.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20377833333333,32.105655,625.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20379833333333,32.10566166666667,625.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20381166666667,32.10566333333333,625.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20382166666667,32.105665,625.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203833333333336,32.10567,625.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20384,32.10567,625.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20384833333333,32.105668333333334,625.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203858333333336,32.105666666666664,625.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20388166666667,32.105665,625.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203903333333336,32.10566333333333,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203923333333336,32.10566166666667,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203936666666664,32.10566333333333,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20395,32.10566333333333,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203968333333336,32.105665,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203981666666664,32.105668333333334,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.203995,32.10567,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20401,32.10567833333333,625.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204026666666664,32.10568166666667,625.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20403833333334,32.10568166666667,625.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20404333333333,32.10568166666667,625.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20404833333333,32.10567833333333,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20404,32.105673333333336,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204053333333334,32.105675,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20408833333333,32.105673333333336,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20408833333333,32.105673333333336,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20412833333334,32.105665,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20415,32.105665,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204161666666664,32.10567,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204175,32.105671666666666,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20420333333333,32.10567,625.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20422666666666,32.10567,625.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20426333333333,32.105671666666666,625.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20428666666667,32.105671666666666,625.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20432,32.10567,625.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204346666666666,32.10567,625.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20436333333333,32.10567,625.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20438166666667,32.10567,625.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204395,32.105673333333336,625.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20443,32.10567,625.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204455,32.10567,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20446833333333,32.105673333333336,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20449333333333,32.105673333333336,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20452,32.10567666666667,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20454,32.10568,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20455833333333,32.10568166666667,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20456166666666,32.10568333333333,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204566666666665,32.105685,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204571666666666,32.105685,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20459666666667,32.105686666666664,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204595,32.10568333333333,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20460833333333,32.10568333333333,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20462166666667,32.10568333333333,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20463,32.10568,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20465,32.10567666666667,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20466666666667,32.10567666666667,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20467,32.105671666666666,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204676666666664,32.105666666666664,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204685,32.10566333333333,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20469833333333,32.10566166666667,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204715,32.10566,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20474166666666,32.10565666666667,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204768333333334,32.10565166666667,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204791666666665,32.105648333333335,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204818333333336,32.10564333333333,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20484166666667,32.10564,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20487,32.10563666666667,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20489333333333,32.105635,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204915,32.10563166666667,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20493833333333,32.105625,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20496,32.10562,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20498166666667,32.105615,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20500166666667,32.10561333333333,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20501333333333,32.105608333333336,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205025,32.105603333333335,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205035,32.105601666666665,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205041666666666,32.105601666666665,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20505166666667,32.105601666666665,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20506666666667,32.10559666666666,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205085,32.105595,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205106666666666,32.10559,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20513,32.105585,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205146666666664,32.105581666666666,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20516166666667,32.105576666666664,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205185,32.10557333333333,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205198333333335,32.105565,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205243333333335,32.105563333333336,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20526,32.105555,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20527833333333,32.10555,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.2053,32.10554666666667,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205330000000004,32.10555166666666,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205345,32.105555,625.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205331666666666,32.10556,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20533666666667,32.10556,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205335,32.105558333333335,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205325,32.10556,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20532166666667,32.105556666666665,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20531833333333,32.105555,625.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20532333333333,32.105556666666665,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205330000000004,32.105556666666665,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205328333333334,32.105558333333335,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205353333333335,32.10555,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20538,32.10554,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20540833333333,32.105533333333334,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205435,32.10552666666667,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205481666666664,32.10551666666667,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205486666666665,32.10551666666667,624.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20549333333334,32.10551,624.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20550333333333,32.10550333333333,624.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205515,32.105495,624.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205515,32.10548333333333,624.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20553666666667,32.105466666666665,624.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205531666666666,32.10545833333333,624.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205535,32.10545,624.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20553833333334,32.105446666666666,624.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20554333333333,32.10543,624.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20554166666667,32.10541666666666,624.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20554,32.1054,624.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20554666666666,32.10539333333333,624.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20554166666667,32.10534833333333,624.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205535,32.105306666666664,624.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20553,32.10529,624.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205526666666664,32.105273333333336,624.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20552166666667,32.10525666666667,624.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.2055,32.105245,624.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205485,32.10524,624.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205486666666665,32.10523333333333,624.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205486666666665,32.105225,624.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205485,32.105205,624.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20549166666667,32.105178333333335,624.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205495,32.10516333333333,624.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20550166666666,32.10514666666667,624.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205505,32.10513666666667,624.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20550166666666,32.10512666666666,624.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20550333333333,32.105113333333335,624.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205506666666665,32.10510166666667,624.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205508333333334,32.105093333333336,624.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205508333333334,32.10508333333333,624.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205515,32.105068333333335,624.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205515,32.10505666666667,624.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205505,32.105043333333334,624.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20549833333333,32.10503166666667,624.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20547,32.10502833333334,624.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20547666666667,32.105016666666664,624.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20548333333333,32.105001666666666,624.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205481666666664,32.10499,624.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20547666666667,32.10498,624.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20547166666667,32.10496666666667,624.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205466666666666,32.10494833333333,624.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205461666666665,32.104933333333335,624.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20545666666667,32.10493,623.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205455,32.104926666666664,623.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20545,32.10492,623.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205443333333335,32.10491,623.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20543833333333,32.10490166666666,623.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20543166666667,32.104886666666665,623.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20542833333333,32.10488333333333,623.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205425,32.10488,623.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205421666666666,32.104881666666664,623.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205415,32.104881666666664,623.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20541,32.104886666666665,623.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.2054,32.104888333333335,623.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20538666666667,32.10489166666667,623.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205378333333336,32.10489333333334,623.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205365,32.10490166666666,623.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205358333333336,32.10490166666666,623.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20534,32.10489833333333,623.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20531,32.10488333333333,623.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20529166666667,32.104875,623.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20527833333333,32.104868333333336,623.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205268333333336,32.104861666666665,623.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20525166666667,32.104863333333334,623.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205235,32.104863333333334,623.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205215,32.104861666666665,623.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205198333333335,32.10485833333333,623.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20518833333333,32.104855,623.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205175,32.10484833333334,623.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20516333333333,32.104841666666665,623.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205155,32.104836666666664,623.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20515666666667,32.104836666666664,623.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205151666666666,32.10483,623.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20514333333333,32.10482,623.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205135,32.10481,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20512,32.10480666666667,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205128333333334,32.10480666666667,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205101666666664,32.10480333333334,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20508,32.1048,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20506,32.104796666666665,623.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20505,32.104791666666664,623.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205043333333336,32.104791666666664,623.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205038333333334,32.10479333333333,623.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20503166666666,32.10479333333333,623.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.205025,32.104791666666664,623.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20502333333334,32.10478833333333,623.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20500666666667,32.10478333333333,623.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204975,32.10478333333333,623.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20495,32.10478166666667,623.0 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20489,32.10476,622.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20484666666667,32.104746666666664,622.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204825,32.10474,622.9 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20479666666667,32.104731666666666,622.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204773333333335,32.104726666666664,622.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20473666666667,32.104713333333336,622.8 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204725,32.10471166666667,622.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20471333333333,32.10471,622.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20467,32.104683333333334,622.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20464333333334,32.10467333333333,622.7 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204618333333336,32.104665,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20460166666667,32.10468,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20458166666667,32.10469166666667,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20455333333334,32.104685,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20453166666667,32.104668333333336,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204503333333335,32.104641666666666,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204478333333334,32.104618333333335,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20444833333333,32.10458666666667,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20442833333333,32.104573333333335,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20440833333333,32.10456166666667,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20439,32.104551666666666,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204373333333336,32.104546666666664,622.6 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20435833333333,32.10454166666667,622.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204341666666664,32.10453666666667,622.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20432666666667,32.104533333333336,622.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20430833333333,32.104571666666665,622.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204296666666664,32.104593333333334,622.5 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204285,32.10461333333333,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20427333333333,32.104636666666664,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204258333333335,32.104641666666666,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20427,32.104645,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20433833333333,32.10464,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20435333333333,32.104645,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204366666666665,32.104643333333335,622.4 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20437833333333,32.104638333333334,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204391666666666,32.104638333333334,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20441,32.10464833333333,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204413333333335,32.10465833333333,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20441666666667,32.104665,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20441666666667,32.104665,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20442166666667,32.10466666666667,622.3 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20442333333333,32.104668333333336,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204425,32.10465666666666,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204425,32.10465666666666,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204425,32.10465666666666,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204535,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204535,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20453666666667,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20453833333333,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20453833333333,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.204541666666664,32.104616666666665,622.2 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20454333333333,32.104615,622.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20454333333333,32.104615,622.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20454333333333,32.104615,622.1 </coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<Point>
+<coordinates> 35.20454333333333,32.104615,622.1 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
